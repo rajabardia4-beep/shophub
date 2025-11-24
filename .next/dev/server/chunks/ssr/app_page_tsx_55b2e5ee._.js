@@ -216,15 +216,15 @@ function LandingPage() {
         }
     ];
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-        className: "jsx-b4460ad960e7c6fc" + " " + "min-h-screen bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 text-white overflow-hidden",
+        className: "jsx-cb209a5397275c56" + " " + "min-h-screen bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 text-white overflow-hidden",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("nav", {
-                className: "jsx-b4460ad960e7c6fc" + " " + "fixed top-0 w-full z-50 backdrop-blur-md bg-black/30 border-b border-white/10",
+                className: "jsx-cb209a5397275c56" + " " + "fixed top-0 w-full z-50 backdrop-blur-md bg-black/30 border-b border-white/10",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "jsx-b4460ad960e7c6fc" + " " + "max-w-7xl mx-auto px-4 py-4 flex items-center justify-between",
+                    className: "jsx-cb209a5397275c56" + " " + "max-w-7xl mx-auto px-4 py-4 flex items-center justify-between",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "jsx-b4460ad960e7c6fc" + " " + "text-2xl font-bold bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent",
+                            className: "jsx-cb209a5397275c56" + " " + "text-2xl font-bold bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent",
                             children: "ShopHub"
                         }, void 0, false, {
                             fileName: "[project]/app/page.tsx",
@@ -232,11 +232,11 @@ function LandingPage() {
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "jsx-b4460ad960e7c6fc" + " " + "flex items-center gap-8",
+                            className: "jsx-cb209a5397275c56" + " " + "flex items-center gap-8",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                     href: "#features",
-                                    className: "jsx-b4460ad960e7c6fc" + " " + "hover:text-blue-400 transition-colors",
+                                    className: "jsx-cb209a5397275c56" + " " + "hover:text-blue-400 transition-colors",
                                     children: "Features"
                                 }, void 0, false, {
                                     fileName: "[project]/app/page.tsx",
@@ -245,7 +245,7 @@ function LandingPage() {
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                     href: "#benefits",
-                                    className: "jsx-b4460ad960e7c6fc" + " " + "hover:text-blue-400 transition-colors",
+                                    className: "jsx-cb209a5397275c56" + " " + "hover:text-blue-400 transition-colors",
                                     children: "Benefits"
                                 }, void 0, false, {
                                     fileName: "[project]/app/page.tsx",
@@ -254,7 +254,7 @@ function LandingPage() {
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                     href: "#testimonials",
-                                    className: "jsx-b4460ad960e7c6fc" + " " + "hover:text-blue-400 transition-colors",
+                                    className: "jsx-cb209a5397275c56" + " " + "hover:text-blue-400 transition-colors",
                                     children: "Reviews"
                                 }, void 0, false, {
                                     fileName: "[project]/app/page.tsx",
@@ -263,7 +263,7 @@ function LandingPage() {
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                     href: "#faq",
-                                    className: "jsx-b4460ad960e7c6fc" + " " + "hover:text-blue-400 transition-colors",
+                                    className: "jsx-cb209a5397275c56" + " " + "hover:text-blue-400 transition-colors",
                                     children: "FAQ"
                                 }, void 0, false, {
                                     fileName: "[project]/app/page.tsx",
@@ -297,13 +297,13 @@ function LandingPage() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
-                className: "jsx-b4460ad960e7c6fc" + " " + "min-h-screen flex items-center justify-center pt-20 px-4 relative overflow-hidden",
+                className: "jsx-cb209a5397275c56" + " " + "min-h-screen flex items-center justify-center pt-20 px-4 relative overflow-hidden",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "jsx-b4460ad960e7c6fc" + " " + "absolute inset-0 overflow-hidden",
+                        className: "jsx-cb209a5397275c56" + " " + "absolute inset-0 overflow-hidden",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "jsx-b4460ad960e7c6fc" + " " + "absolute w-96 h-96 bg-blue-500/20 rounded-full blur-3xl -top-40 -left-40 animate-pulse"
+                                className: "jsx-cb209a5397275c56" + " " + "absolute w-96 h-96 bg-blue-500/20 rounded-full blur-3xl -top-40 -left-40 animate-pulse"
                             }, void 0, false, {
                                 fileName: "[project]/app/page.tsx",
                                 lineNumber: 221,
@@ -313,7 +313,7 @@ function LandingPage() {
                                 style: {
                                     animationDelay: "1s"
                                 },
-                                className: "jsx-b4460ad960e7c6fc" + " " + "absolute w-96 h-96 bg-purple-500/20 rounded-full blur-3xl -bottom-40 -right-40 animate-pulse"
+                                className: "jsx-cb209a5397275c56" + " " + "absolute w-96 h-96 bg-purple-500/20 rounded-full blur-3xl -bottom-40 -right-40 animate-pulse"
                             }, void 0, false, {
                                 fileName: "[project]/app/page.tsx",
                                 lineNumber: 222,
@@ -326,10 +326,10 @@ function LandingPage() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "jsx-b4460ad960e7c6fc" + " " + "max-w-4xl mx-auto text-center relative z-10",
+                        className: "jsx-cb209a5397275c56" + " " + "max-w-4xl mx-auto text-center relative z-10",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "jsx-b4460ad960e7c6fc" + " " + "inline-block mb-6 px-4 py-2 bg-blue-500/20 border border-blue-400/50 rounded-full text-sm animate-fade-in",
+                                className: "jsx-cb209a5397275c56" + " " + "inline-block mb-6 px-4 py-2 bg-blue-500/20 border border-blue-400/50 rounded-full text-sm animate-fade-in",
                                 children: "✨ Trusted by 50,000+ customers worldwide"
                             }, void 0, false, {
                                 fileName: "[project]/app/page.tsx",
@@ -340,11 +340,11 @@ function LandingPage() {
                                 style: {
                                     animationDelay: "0.1s"
                                 },
-                                className: "jsx-b4460ad960e7c6fc" + " " + "text-6xl md:text-7xl font-bold mb-6 leading-tight animate-fade-in",
+                                className: "jsx-cb209a5397275c56" + " " + "text-6xl md:text-7xl font-bold mb-6 leading-tight animate-fade-in",
                                 children: [
                                     "Your Premium",
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        className: "jsx-b4460ad960e7c6fc" + " " + "bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 bg-clip-text text-transparent",
+                                        className: "jsx-cb209a5397275c56" + " " + "bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 bg-clip-text text-transparent",
                                         children: [
                                             " ",
                                             "Shopping Destination"
@@ -364,7 +364,7 @@ function LandingPage() {
                                 style: {
                                     animationDelay: "0.2s"
                                 },
-                                className: "jsx-b4460ad960e7c6fc" + " " + "text-xl text-gray-300 mb-8 max-w-2xl mx-auto animate-fade-in",
+                                className: "jsx-cb209a5397275c56" + " " + "text-xl text-gray-300 mb-8 max-w-2xl mx-auto animate-fade-in",
                                 children: "Discover thousands of products with secure checkout, instant delivery tracking, and 24/7 customer support. Your perfect shopping experience starts here."
                             }, void 0, false, {
                                 fileName: "[project]/app/page.tsx",
@@ -375,7 +375,7 @@ function LandingPage() {
                                 style: {
                                     animationDelay: "0.3s"
                                 },
-                                className: "jsx-b4460ad960e7c6fc" + " " + "flex gap-4 justify-center mb-12 animate-fade-in",
+                                className: "jsx-cb209a5397275c56" + " " + "flex gap-4 justify-center mb-12 animate-fade-in",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                         href: "/shop",
@@ -397,7 +397,7 @@ function LandingPage() {
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                         href: "#features",
-                                        className: "jsx-b4460ad960e7c6fc" + " " + "px-8 py-4 border border-gray-500 rounded-lg hover:border-gray-300 transition-all duration-300 hover:bg-white/5 font-semibold",
+                                        className: "jsx-cb209a5397275c56" + " " + "px-8 py-4 border border-gray-500 rounded-lg hover:border-gray-300 transition-all duration-300 hover:bg-white/5 font-semibold",
                                         children: "Learn More"
                                     }, void 0, false, {
                                         fileName: "[project]/app/page.tsx",
@@ -415,12 +415,12 @@ function LandingPage() {
                                 style: {
                                     animationDelay: "0.4s"
                                 },
-                                className: "jsx-b4460ad960e7c6fc" + " " + "grid grid-cols-2 md:grid-cols-4 gap-4 mt-16 animate-fade-in",
+                                className: "jsx-cb209a5397275c56" + " " + "grid grid-cols-2 md:grid-cols-4 gap-4 mt-16 animate-fade-in",
                                 children: stats.map((stat, idx)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "jsx-b4460ad960e7c6fc" + " " + "p-4 bg-white/5 border border-white/10 rounded-lg backdrop-blur hover:bg-white/10 transition-all duration-300 group",
+                                        className: "jsx-cb209a5397275c56" + " " + "p-4 bg-white/5 border border-white/10 rounded-lg backdrop-blur hover:bg-white/10 transition-all duration-300 group",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "jsx-b4460ad960e7c6fc" + " " + "text-2xl font-bold text-blue-400 group-hover:scale-110 transition-transform",
+                                                className: "jsx-cb209a5397275c56" + " " + "text-2xl font-bold text-blue-400 group-hover:scale-110 transition-transform",
                                                 children: stat.label
                                             }, void 0, false, {
                                                 fileName: "[project]/app/page.tsx",
@@ -428,7 +428,7 @@ function LandingPage() {
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "jsx-b4460ad960e7c6fc" + " " + "text-sm text-gray-400",
+                                                className: "jsx-cb209a5397275c56" + " " + "text-sm text-gray-400",
                                                 children: stat.description
                                             }, void 0, false, {
                                                 fileName: "[project]/app/page.tsx",
@@ -460,15 +460,15 @@ function LandingPage() {
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
                 id: "features",
-                className: "jsx-b4460ad960e7c6fc" + " " + "py-24 px-4 relative",
+                className: "jsx-cb209a5397275c56" + " " + "py-24 px-4 relative",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "jsx-b4460ad960e7c6fc" + " " + "max-w-6xl mx-auto",
+                    className: "jsx-cb209a5397275c56" + " " + "max-w-6xl mx-auto",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "jsx-b4460ad960e7c6fc" + " " + "text-center mb-16 animate-fade-in",
+                            className: "jsx-cb209a5397275c56" + " " + "text-center mb-16 animate-fade-in",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                                    className: "jsx-b4460ad960e7c6fc" + " " + "text-5xl font-bold mb-4",
+                                    className: "jsx-cb209a5397275c56" + " " + "text-5xl font-bold mb-4",
                                     children: "Why Choose ShopHub?"
                                 }, void 0, false, {
                                     fileName: "[project]/app/page.tsx",
@@ -476,7 +476,7 @@ function LandingPage() {
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    className: "jsx-b4460ad960e7c6fc" + " " + "text-gray-400 text-lg",
+                                    className: "jsx-cb209a5397275c56" + " " + "text-gray-400 text-lg",
                                     children: "Premium features designed for the modern shopper"
                                 }, void 0, false, {
                                     fileName: "[project]/app/page.tsx",
@@ -490,7 +490,7 @@ function LandingPage() {
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "jsx-b4460ad960e7c6fc" + " " + "grid md:grid-cols-2 gap-8",
+                            className: "jsx-cb209a5397275c56" + " " + "grid md:grid-cols-2 gap-8",
                             children: features.map((feature, idx)=>{
                                 const Icon = feature.icon;
                                 return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -498,12 +498,12 @@ function LandingPage() {
                                         animationDelay: `${idx * 0.1}s`
                                     },
                                     onMouseEnter: ()=>setActiveFeature(idx),
-                                    className: "jsx-b4460ad960e7c6fc" + " " + "p-8 bg-gradient-to-br from-white/10 to-white/5 border border-white/10 rounded-xl hover:border-blue-400/50 transition-all duration-300 hover:shadow-2xl hover:shadow-blue-500/10 group cursor-pointer animate-fade-in",
+                                    className: "jsx-cb209a5397275c56" + " " + "p-8 bg-gradient-to-br from-white/10 to-white/5 border border-white/10 rounded-xl hover:border-blue-400/50 transition-all duration-300 hover:shadow-2xl hover:shadow-blue-500/10 group cursor-pointer animate-fade-in",
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "jsx-b4460ad960e7c6fc" + " " + "bg-gradient-to-br from-blue-500 to-purple-600 p-3 rounded-lg w-fit mb-4 group-hover:scale-110 transition-transform",
+                                            className: "jsx-cb209a5397275c56" + " " + "bg-gradient-to-br from-blue-500 to-purple-600 p-3 rounded-lg w-fit mb-4 group-hover:scale-110 transition-transform",
                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Icon, {
-                                                className: "jsx-b4460ad960e7c6fc" + " " + "w-6 h-6"
+                                                className: "jsx-cb209a5397275c56" + " " + "w-6 h-6"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/page.tsx",
                                                 lineNumber: 307,
@@ -515,7 +515,7 @@ function LandingPage() {
                                             columnNumber: 19
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                            className: "jsx-b4460ad960e7c6fc" + " " + "text-xl font-semibold mb-2",
+                                            className: "jsx-cb209a5397275c56" + " " + "text-xl font-semibold mb-2",
                                             children: feature.title
                                         }, void 0, false, {
                                             fileName: "[project]/app/page.tsx",
@@ -523,7 +523,7 @@ function LandingPage() {
                                             columnNumber: 19
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                            className: "jsx-b4460ad960e7c6fc" + " " + "text-gray-400",
+                                            className: "jsx-cb209a5397275c56" + " " + "text-gray-400",
                                             children: feature.description
                                         }, void 0, false, {
                                             fileName: "[project]/app/page.tsx",
@@ -555,15 +555,15 @@ function LandingPage() {
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
                 id: "benefits",
-                className: "jsx-b4460ad960e7c6fc" + " " + "py-24 px-4 relative bg-white/5",
+                className: "jsx-cb209a5397275c56" + " " + "py-24 px-4 relative bg-white/5",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "jsx-b4460ad960e7c6fc" + " " + "max-w-6xl mx-auto",
+                    className: "jsx-cb209a5397275c56" + " " + "max-w-6xl mx-auto",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "jsx-b4460ad960e7c6fc" + " " + "text-center mb-16 animate-fade-in",
+                            className: "jsx-cb209a5397275c56" + " " + "text-center mb-16 animate-fade-in",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                                    className: "jsx-b4460ad960e7c6fc" + " " + "text-5xl font-bold mb-4",
+                                    className: "jsx-cb209a5397275c56" + " " + "text-5xl font-bold mb-4",
                                     children: "Why Customers Love Us"
                                 }, void 0, false, {
                                     fileName: "[project]/app/page.tsx",
@@ -571,7 +571,7 @@ function LandingPage() {
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    className: "jsx-b4460ad960e7c6fc" + " " + "text-gray-400 text-lg",
+                                    className: "jsx-cb209a5397275c56" + " " + "text-gray-400 text-lg",
                                     children: "Exceptional benefits that matter to you"
                                 }, void 0, false, {
                                     fileName: "[project]/app/page.tsx",
@@ -585,19 +585,19 @@ function LandingPage() {
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "jsx-b4460ad960e7c6fc" + " " + "grid md:grid-cols-2 lg:grid-cols-4 gap-6",
+                            className: "jsx-cb209a5397275c56" + " " + "grid md:grid-cols-2 lg:grid-cols-4 gap-6",
                             children: benefits.map((benefit, idx)=>{
                                 const Icon = benefit.icon;
                                 return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     style: {
                                         animationDelay: `${idx * 0.1}s`
                                     },
-                                    className: "jsx-b4460ad960e7c6fc" + " " + "p-6 bg-gradient-to-br from-white/10 to-white/5 border border-white/10 rounded-lg hover:border-purple-400/50 transition-all duration-300 hover:shadow-lg hover:shadow-purple-500/10 animate-fade-in",
+                                    className: "jsx-cb209a5397275c56" + " " + "p-6 bg-gradient-to-br from-white/10 to-white/5 border border-white/10 rounded-lg hover:border-purple-400/50 transition-all duration-300 hover:shadow-lg hover:shadow-purple-500/10 animate-fade-in",
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "jsx-b4460ad960e7c6fc" + " " + "bg-gradient-to-br from-purple-500 to-pink-600 p-3 rounded-lg w-fit mb-4",
+                                            className: "jsx-cb209a5397275c56" + " " + "bg-gradient-to-br from-purple-500 to-pink-600 p-3 rounded-lg w-fit mb-4",
                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Icon, {
-                                                className: "jsx-b4460ad960e7c6fc" + " " + "w-5 h-5"
+                                                className: "jsx-cb209a5397275c56" + " " + "w-5 h-5"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/page.tsx",
                                                 lineNumber: 335,
@@ -609,7 +609,7 @@ function LandingPage() {
                                             columnNumber: 19
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                            className: "jsx-b4460ad960e7c6fc" + " " + "text-lg font-semibold mb-2",
+                                            className: "jsx-cb209a5397275c56" + " " + "text-lg font-semibold mb-2",
                                             children: benefit.title
                                         }, void 0, false, {
                                             fileName: "[project]/app/page.tsx",
@@ -617,7 +617,7 @@ function LandingPage() {
                                             columnNumber: 19
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                            className: "jsx-b4460ad960e7c6fc" + " " + "text-gray-400 text-sm",
+                                            className: "jsx-cb209a5397275c56" + " " + "text-gray-400 text-sm",
                                             children: benefit.description
                                         }, void 0, false, {
                                             fileName: "[project]/app/page.tsx",
@@ -648,15 +648,15 @@ function LandingPage() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
-                className: "jsx-b4460ad960e7c6fc" + " " + "py-24 px-4 relative",
+                className: "jsx-cb209a5397275c56" + " " + "py-24 px-4 relative",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "jsx-b4460ad960e7c6fc" + " " + "max-w-6xl mx-auto",
+                    className: "jsx-cb209a5397275c56" + " " + "max-w-6xl mx-auto",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "jsx-b4460ad960e7c6fc" + " " + "text-center mb-16 animate-fade-in",
+                            className: "jsx-cb209a5397275c56" + " " + "text-center mb-16 animate-fade-in",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                                    className: "jsx-b4460ad960e7c6fc" + " " + "text-5xl font-bold mb-4",
+                                    className: "jsx-cb209a5397275c56" + " " + "text-5xl font-bold mb-4",
                                     children: "Browse by Category"
                                 }, void 0, false, {
                                     fileName: "[project]/app/page.tsx",
@@ -664,7 +664,7 @@ function LandingPage() {
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    className: "jsx-b4460ad960e7c6fc" + " " + "text-gray-400 text-lg",
+                                    className: "jsx-cb209a5397275c56" + " " + "text-gray-400 text-lg",
                                     children: "Explore our curated collections"
                                 }, void 0, false, {
                                     fileName: "[project]/app/page.tsx",
@@ -678,7 +678,7 @@ function LandingPage() {
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "jsx-b4460ad960e7c6fc" + " " + "grid md:grid-cols-2 lg:grid-cols-4 gap-6",
+                            className: "jsx-cb209a5397275c56" + " " + "grid md:grid-cols-2 lg:grid-cols-4 gap-6",
                             children: categories.map((category, idx)=>{
                                 const Icon = category.icon;
                                 return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -689,14 +689,14 @@ function LandingPage() {
                                     },
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Icon, {
-                                            className: "jsx-b4460ad960e7c6fc" + " " + "w-12 h-12 text-blue-400 mb-4 group-hover:scale-125 transition-transform"
+                                            className: "jsx-cb209a5397275c56" + " " + "w-12 h-12 text-blue-400 mb-4 group-hover:scale-125 transition-transform"
                                         }, void 0, false, {
                                             fileName: "[project]/app/page.tsx",
                                             lineNumber: 363,
                                             columnNumber: 19
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                            className: "jsx-b4460ad960e7c6fc" + " " + "text-xl font-semibold mb-2",
+                                            className: "jsx-cb209a5397275c56" + " " + "text-xl font-semibold mb-2",
                                             children: category.name
                                         }, void 0, false, {
                                             fileName: "[project]/app/page.tsx",
@@ -704,7 +704,7 @@ function LandingPage() {
                                             columnNumber: 19
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                            className: "jsx-b4460ad960e7c6fc" + " " + "text-gray-400",
+                                            className: "jsx-cb209a5397275c56" + " " + "text-gray-400",
                                             children: [
                                                 category.count,
                                                 "+ products"
@@ -739,15 +739,15 @@ function LandingPage() {
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
                 id: "testimonials",
-                className: "jsx-b4460ad960e7c6fc" + " " + "py-24 px-4 relative bg-white/5",
+                className: "jsx-cb209a5397275c56" + " " + "py-24 px-4 relative bg-white/5",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "jsx-b4460ad960e7c6fc" + " " + "max-w-6xl mx-auto",
+                    className: "jsx-cb209a5397275c56" + " " + "max-w-6xl mx-auto",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "jsx-b4460ad960e7c6fc" + " " + "text-center mb-16 animate-fade-in",
+                            className: "jsx-cb209a5397275c56" + " " + "text-center mb-16 animate-fade-in",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                                    className: "jsx-b4460ad960e7c6fc" + " " + "text-5xl font-bold mb-4",
+                                    className: "jsx-cb209a5397275c56" + " " + "text-5xl font-bold mb-4",
                                     children: "Loved by Customers"
                                 }, void 0, false, {
                                     fileName: "[project]/app/page.tsx",
@@ -755,7 +755,7 @@ function LandingPage() {
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    className: "jsx-b4460ad960e7c6fc" + " " + "text-gray-400 text-lg",
+                                    className: "jsx-cb209a5397275c56" + " " + "text-gray-400 text-lg",
                                     children: "Real reviews from real shoppers"
                                 }, void 0, false, {
                                     fileName: "[project]/app/page.tsx",
@@ -769,15 +769,15 @@ function LandingPage() {
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "jsx-b4460ad960e7c6fc" + " " + "grid md:grid-cols-2 lg:grid-cols-4 gap-6",
+                            className: "jsx-cb209a5397275c56" + " " + "grid md:grid-cols-2 lg:grid-cols-4 gap-6",
                             children: testimonials.map((testimonial, idx)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     style: {
                                         animationDelay: `${idx * 0.1}s`
                                     },
-                                    className: "jsx-b4460ad960e7c6fc" + " " + "p-6 bg-gradient-to-br from-white/10 to-white/5 border border-white/10 rounded-xl hover:border-purple-400/50 transition-all duration-300 hover:shadow-xl hover:shadow-purple-500/10 animate-fade-in group",
+                                    className: "jsx-cb209a5397275c56" + " " + "p-6 bg-gradient-to-br from-white/10 to-white/5 border border-white/10 rounded-xl hover:border-purple-400/50 transition-all duration-300 hover:shadow-xl hover:shadow-purple-500/10 animate-fade-in group",
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "jsx-b4460ad960e7c6fc" + " " + "flex gap-1 mb-3",
+                                            className: "jsx-cb209a5397275c56" + " " + "flex gap-1 mb-3",
                                             children: Array.from({
                                                 length: testimonial.rating
                                             }).map((_, i)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$star$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Star$3e$__["Star"], {
@@ -793,7 +793,7 @@ function LandingPage() {
                                             columnNumber: 17
                                         }, this),
                                         testimonial.verified && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "jsx-b4460ad960e7c6fc" + " " + "flex items-center gap-1 mb-3 text-xs text-green-400",
+                                            className: "jsx-cb209a5397275c56" + " " + "flex items-center gap-1 mb-3 text-xs text-green-400",
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$circle$2d$check$2d$big$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__CheckCircle$3e$__["CheckCircle"], {
                                                     className: "w-4 h-4"
@@ -810,7 +810,7 @@ function LandingPage() {
                                             columnNumber: 19
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                            className: "jsx-b4460ad960e7c6fc" + " " + "text-gray-300 mb-4 text-sm italic",
+                                            className: "jsx-cb209a5397275c56" + " " + "text-gray-300 mb-4 text-sm italic",
                                             children: [
                                                 '"',
                                                 testimonial.text,
@@ -822,10 +822,10 @@ function LandingPage() {
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "jsx-b4460ad960e7c6fc" + " " + "pt-3 border-t border-white/10",
+                                            className: "jsx-cb209a5397275c56" + " " + "pt-3 border-t border-white/10",
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                    className: "jsx-b4460ad960e7c6fc" + " " + "font-semibold text-blue-400 text-sm",
+                                                    className: "jsx-cb209a5397275c56" + " " + "font-semibold text-blue-400 text-sm",
                                                     children: testimonial.name
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/page.tsx",
@@ -833,7 +833,7 @@ function LandingPage() {
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                    className: "jsx-b4460ad960e7c6fc" + " " + "text-xs text-gray-500",
+                                                    className: "jsx-cb209a5397275c56" + " " + "text-xs text-gray-500",
                                                     children: testimonial.role
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/page.tsx",
@@ -870,15 +870,15 @@ function LandingPage() {
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
                 id: "faq",
-                className: "jsx-b4460ad960e7c6fc" + " " + "py-24 px-4 relative",
+                className: "jsx-cb209a5397275c56" + " " + "py-24 px-4 relative",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "jsx-b4460ad960e7c6fc" + " " + "max-w-4xl mx-auto",
+                    className: "jsx-cb209a5397275c56" + " " + "max-w-4xl mx-auto",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "jsx-b4460ad960e7c6fc" + " " + "text-center mb-16 animate-fade-in",
+                            className: "jsx-cb209a5397275c56" + " " + "text-center mb-16 animate-fade-in",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                                    className: "jsx-b4460ad960e7c6fc" + " " + "text-5xl font-bold mb-4",
+                                    className: "jsx-cb209a5397275c56" + " " + "text-5xl font-bold mb-4",
                                     children: "Frequently Asked Questions"
                                 }, void 0, false, {
                                     fileName: "[project]/app/page.tsx",
@@ -886,7 +886,7 @@ function LandingPage() {
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    className: "jsx-b4460ad960e7c6fc" + " " + "text-gray-400 text-lg",
+                                    className: "jsx-cb209a5397275c56" + " " + "text-gray-400 text-lg",
                                     children: "Find answers to common questions"
                                 }, void 0, false, {
                                     fileName: "[project]/app/page.tsx",
@@ -900,14 +900,14 @@ function LandingPage() {
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "jsx-b4460ad960e7c6fc" + " " + "space-y-4",
+                            className: "jsx-cb209a5397275c56" + " " + "space-y-4",
                             children: faqs.map((faq, idx)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     style: {
                                         animationDelay: `${idx * 0.1}s`
                                     },
-                                    className: "jsx-b4460ad960e7c6fc" + " " + "p-6 bg-gradient-to-br from-white/10 to-white/5 border border-white/10 rounded-lg hover:border-blue-400/50 transition-all duration-300 animate-fade-in group",
+                                    className: "jsx-cb209a5397275c56" + " " + "p-6 bg-gradient-to-br from-white/10 to-white/5 border border-white/10 rounded-lg hover:border-blue-400/50 transition-all duration-300 animate-fade-in group",
                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "jsx-b4460ad960e7c6fc" + " " + "flex items-start gap-3",
+                                        className: "jsx-cb209a5397275c56" + " " + "flex items-start gap-3",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$message$2d$square$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__MessageSquare$3e$__["MessageSquare"], {
                                                 className: "w-5 h-5 text-blue-400 mt-1 flex-shrink-0"
@@ -917,10 +917,10 @@ function LandingPage() {
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "jsx-b4460ad960e7c6fc" + " " + "flex-1",
+                                                className: "jsx-cb209a5397275c56" + " " + "flex-1",
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                                        className: "jsx-b4460ad960e7c6fc" + " " + "text-lg font-semibold mb-2",
+                                                        className: "jsx-cb209a5397275c56" + " " + "text-lg font-semibold mb-2",
                                                         children: faq.question
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/page.tsx",
@@ -928,7 +928,7 @@ function LandingPage() {
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                        className: "jsx-b4460ad960e7c6fc" + " " + "text-gray-400",
+                                                        className: "jsx-cb209a5397275c56" + " " + "text-gray-400",
                                                         children: faq.answer
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/page.tsx",
@@ -969,14 +969,14 @@ function LandingPage() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
-                className: "jsx-b4460ad960e7c6fc" + " " + "py-24 px-4 relative bg-white/5",
+                className: "jsx-cb209a5397275c56" + " " + "py-24 px-4 relative bg-white/5",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "jsx-b4460ad960e7c6fc" + " " + "max-w-4xl mx-auto text-center",
+                    className: "jsx-cb209a5397275c56" + " " + "max-w-4xl mx-auto text-center",
                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "jsx-b4460ad960e7c6fc" + " " + "p-12 bg-gradient-to-br from-blue-500/20 to-purple-600/20 border border-white/20 rounded-2xl backdrop-blur-xl animate-fade-in",
+                        className: "jsx-cb209a5397275c56" + " " + "p-12 bg-gradient-to-br from-blue-500/20 to-purple-600/20 border border-white/20 rounded-2xl backdrop-blur-xl animate-fade-in",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                                className: "jsx-b4460ad960e7c6fc" + " " + "text-4xl font-bold mb-4",
+                                className: "jsx-cb209a5397275c56" + " " + "text-4xl font-bold mb-4",
                                 children: "Ready to Start Shopping?"
                             }, void 0, false, {
                                 fileName: "[project]/app/page.tsx",
@@ -984,7 +984,7 @@ function LandingPage() {
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                className: "jsx-b4460ad960e7c6fc" + " " + "text-gray-300 mb-8 text-lg",
+                                className: "jsx-cb209a5397275c56" + " " + "text-gray-300 mb-8 text-lg",
                                 children: "Join thousands of happy customers and discover amazing deals today."
                             }, void 0, false, {
                                 fileName: "[project]/app/page.tsx",
@@ -1017,12 +1017,12 @@ function LandingPage() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("footer", {
-                className: "jsx-b4460ad960e7c6fc" + " " + "border-t border-white/10 py-12 px-4 text-center text-gray-400",
+                className: "jsx-cb209a5397275c56" + " " + "border-t border-white/10 py-12 px-4 text-center text-gray-400",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "jsx-b4460ad960e7c6fc" + " " + "max-w-6xl mx-auto",
+                    className: "jsx-cb209a5397275c56" + " " + "max-w-6xl mx-auto",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                            className: "jsx-b4460ad960e7c6fc" + " " + "mb-2",
+                            className: "jsx-cb209a5397275c56" + " " + "mb-2",
                             children: "ShopHub - Your Premium E-Commerce Platform"
                         }, void 0, false, {
                             fileName: "[project]/app/page.tsx",
@@ -1030,7 +1030,7 @@ function LandingPage() {
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                            className: "jsx-b4460ad960e7c6fc" + " " + "text-sm",
+                            className: "jsx-cb209a5397275c56" + " " + "text-sm",
                             children: "Designed by Mahavir Bardia & Shivam Dutta"
                         }, void 0, false, {
                             fileName: "[project]/app/page.tsx",
@@ -1049,8 +1049,8 @@ function LandingPage() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$styled$2d$jsx$2f$style$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
-                id: "b4460ad960e7c6fc",
-                children: "@keyframes fade-in{0%{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}.animate-fade-in.jsx-b4460ad960e7c6fc{opacity:0;animation:.6s ease-out forwards fade-in}"
+                id: "cb209a5397275c56",
+                children: "@keyframes fade-in{0%{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}.animate-fade-in.jsx-cb209a5397275c56{opacity:0;animation:.6s ease-out forwards fade-in}"
             }, void 0, false, void 0, this)
         ]
     }, void 0, true, {
