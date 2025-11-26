@@ -36,6 +36,7 @@ const PRODUCTS = [
   { id: "23", productId: "PRD023", name: "Screen Cleaning Kit", price: 13.99, image: "/screen-cleaning-kit.jpg", rating: 4.4 },
   { id: "24", productId: "PRD024", name: "Gaming Mouse Pad", price: 19.99, image: "/gaming-mouse-pad.jpg", rating: 4.6 },
 ]
+
 export function ProductCatalog() {
   const [showCheckout, setShowCheckout] = useState(false)
   const [showOrders, setShowOrders] = useState(false)
@@ -92,7 +93,6 @@ export function ProductCatalog() {
         className="bg-gradient-to-br from-primary to-primary/80 text-primary-foreground py-16 px-4 animate-fade-in relative overflow-hidden"
         style={{ transform: `translateY(${scrollY * 0.5}px)` }}
       >
-        {/* Decorative background elements */}
         <div className="absolute inset-0 overflow-hidden">
           <div className="absolute top-0 right-0 w-96 h-96 bg-accent/10 rounded-full blur-3xl -mr-32 -mt-32"></div>
           <div className="absolute bottom-0 left-0 w-96 h-96 bg-accent/5 rounded-full blur-3xl -ml-32 -mb-32"></div>
@@ -106,9 +106,8 @@ export function ProductCatalog() {
         </div>
       </div>
 
-      {/* Main Content */}
       <div className="max-w-7xl mx-auto px-4 py-12">
-        {/* Search and Controls */}
+
         <div className="mb-8 space-y-4 animate-slide-in-up">
           <SearchBar onSearch={setSearchQuery} products={PRODUCTS} />
 
@@ -117,14 +116,15 @@ export function ProductCatalog() {
               <button
                 onClick={() => setShowCheckout(true)}
                 disabled={items.length === 0}
-                className="px-6 py-3 btn-premium bg-accent text-accent-foreground disabled:opacity-50 disabled:cursor-not-allowed disabled:hover:shadow-none disabled:hover:scale-100 font-semibold flex items-center gap-2"
+                className="px-6 py-3 btn-premium bg-accent text-accent-foreground disabled:opacity-50 disabled:cursor-not-allowed font-semibold flex items-center gap-2"
               >
                 <ShoppingCart className="w-5 h-5" />
                 Checkout ({items.length})
               </button>
+
               <button
                 onClick={() => setShowOrders(true)}
-                className="px-6 py-3 border-2 border-primary text-primary rounded-lg font-semibold hover:bg-primary hover:text-primary-foreground transition-all duration-300 hover:shadow-lg hover:scale-105 active:scale-95 flex items-center gap-2"
+                className="px-6 py-3 border-2 border-primary text-primary rounded-lg font-semibold hover:bg-primary hover:text-primary-foreground transition-all duration-300 flex items-center gap-2"
               >
                 <TrendingUp className="w-5 h-5" />
                 View Orders
@@ -134,7 +134,7 @@ export function ProductCatalog() {
             <select
               value={sortBy}
               onChange={(e) => setSortBy(e.target.value as typeof sortBy)}
-              className="px-4 py-2 border border-border rounded-lg bg-background transition-smooth input-premium"
+              className="px-4 py-2 border rounded-lg bg-background"
             >
               <option value="name">Sort by Name</option>
               <option value="price-low">Price: Low to High</option>
@@ -145,7 +145,7 @@ export function ProductCatalog() {
             <select
               value={priceFilter}
               onChange={(e) => setPriceFilter(e.target.value)}
-              className="px-4 py-2 border border-border rounded-lg bg-background transition-smooth input-premium"
+              className="px-4 py-2 border rounded-lg bg-background"
             >
               <option value="all">All Prices</option>
               <option value="under50">Under ₹4,150</option>
@@ -155,14 +155,13 @@ export function ProductCatalog() {
           </div>
         </div>
 
-        {/* Results Count */}
         <div className="mb-6 text-sm text-muted-foreground font-medium animate-fade-in">
           <span className="inline-block px-3 py-1 bg-muted rounded-full">
             Showing {filteredProducts.length} of {PRODUCTS.length} products
           </span>
         </div>
 
-        {/* Products Grid */}
+        {/* PRODUCT GRID WITH PRODUCT ID DISPLAY */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
           {filteredProducts.map((product, index) => (
             <div
@@ -171,7 +170,7 @@ export function ProductCatalog() {
               className="cursor-pointer"
               onClick={() => setSelectedProduct(product)}
             >
-              <ProductCard product={product} />
+              <ProductCard product={product} showId />
             </div>
           ))}
         </div>
@@ -184,7 +183,6 @@ export function ProductCatalog() {
         )}
       </div>
 
-      {/* Modals */}
       {showCheckout && <CheckoutModal onClose={() => setShowCheckout(false)} />}
       {showOrders && <OrdersHistory onClose={() => setShowOrders(false)} />}
       {selectedProduct && <ProductDetailsModal product={selectedProduct} onClose={() => setSelectedProduct(null)} />}
