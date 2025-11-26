@@ -8,6 +8,7 @@ import { useCart } from "./cart-context"
 interface ProductCardProps {
   product: {
     id: string
+    productId: string
     name: string
     price: number
     image: string
@@ -55,6 +56,7 @@ export function ProductCard({ product }: ProductCardProps) {
             Premium
           </div>
         )}
+
         {/* Wishlist button */}
         <button
           onClick={() => setIsWishlisted(!isWishlisted)}
@@ -73,6 +75,12 @@ export function ProductCard({ product }: ProductCardProps) {
         <h3 className="font-semibold text-lg mb-1 line-clamp-2 group-hover:text-accent transition-colors">
           {product.name}
         </h3>
+
+        {/* ⭐ NEW: PRODUCT ID DISPLAY */}
+        <p className="text-xs text-muted-foreground mb-2">
+          ID: <span className="font-semibold">{product.productId}</span>
+        </p>
+
         {product.rating && (
           <div className="flex items-center gap-1 mb-2">
             <div className="flex">
@@ -90,6 +98,7 @@ export function ProductCard({ product }: ProductCardProps) {
             <span className="text-xs text-muted-foreground ml-1">({product.rating})</span>
           </div>
         )}
+
         <p className="text-2xl font-bold text-black mb-4 group-hover:text-accent transition-colors">
           ₹{(product.price * 83).toFixed(0)}
         </p>
@@ -111,7 +120,6 @@ export function ProductCard({ product }: ProductCardProps) {
           </button>
         </div>
 
-        {/* Feedback message */}
         {showAddedFeedback && (
           <div className="mt-2 text-center text-sm text-green-600 font-medium animate-fade-in flex items-center justify-center gap-1">
             <span>✓</span>
